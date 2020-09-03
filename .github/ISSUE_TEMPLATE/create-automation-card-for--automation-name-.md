@@ -15,14 +15,14 @@ Provide collateral for the OpenSourceAutomations.org website
   - [ ]  600 x 400 image
      - [ ]  Alt image text
   - [ ]  Name of automation
-  - [ ]  A blurb about the automation
+  - [ ]  Descriptive paragraph about the automation
   - [ ]  Links (github, slack channel url, Testing Site, Live Site, etc.)
-  - [ ] Healthy project files (see resources for instructions)
+  - [ ] Healthy project files (see resources section below for instructions)
      - [ ]  Readme.md URL
      - [ ]  contributing.md URL
      - [ ]  security.md URL
      - [ ]  support.md URL
-- [ ]  Current status of Automation
+  - [ ]  Current status of Automation
      - [ ] in use and ready to deploy
      - [ ] in use and being refactored
      - [ ] ready to deploy
@@ -31,7 +31,7 @@ Provide collateral for the OpenSourceAutomations.org website
      - [ ] in ideation
      - [ ] abandoned
    - [ ] If status in use, what codebase can it be seen in?
-   - [ ] Help wanted (check all that apply)
+ - [ ] Help wanted (check all that apply)
      - [ ] needs maintenance
      - [ ] needs support for users
      - [ ] needs refactoring
@@ -39,9 +39,9 @@ Provide collateral for the OpenSourceAutomations.org website
      - [ ] needs peer review
      - [ ] needs to be built
      - [ ] needs to be researched
-     - [ ] needs advice
      - [ ] needs takeover
-        - [ ] Advice Needed: (type in sort description of what you need)
+     - [ ] needs advice
+        - [ ] Advice Needed: (type in short description of what you need)
 - [ ]   Add automation Card to website
 
 ### Resources/Instructions

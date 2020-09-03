@@ -25,17 +25,22 @@ Provide collateral for the OpenSourceAutomations.org website
 - [ ]  Current status of Automation
      - [ ] in use and ready to deploy
      - [ ] in use and being refactored
+     - [ ] ready to deploy
      - [ ] in development
      - [ ] ready for development
      - [ ] in ideation
+     - [ ] abandoned
    - [ ] If status in use, what codebase can it be seen in?
    - [ ] Help wanted (check all that apply)
      - [ ] needs maintenance
-     - [ ] need refactoring
+     - [ ] needs support for users
+     - [ ] needs refactoring
+     - [ ] needs documentation 
      - [ ] needs peer review
      - [ ] needs to be built
-     - [ ] need to be researched
+     - [ ] needs to be researched
      - [ ] needs advice
+     - [ ] needs takeover
         - [ ] Advice Needed: (type in sort description of what you need)
 - [ ]   Add automation Card to website
 

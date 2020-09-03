@@ -22,14 +22,14 @@ Provide collateral for the OpenSourceAutomations.org website
      - [ ]  contributing.md URL
      - [ ]  security.md URL
      - [ ]  support.md URL
-- [ ]  Status of Automation (check all that apply)
+- [ ]  Current status of Automation
      - [ ] in use and ready to deploy
      - [ ] in use and being refactored
      - [ ] in development
-     - [ ] ready for in development
+     - [ ] ready for development
      - [ ] in ideation
    - [ ] If status in use, what codebase can it be seen in?
-   - [ ] Help wanted
+   - [ ] Help wanted (check all that apply)
      - [ ] needs maintenance
      - [ ] need refactoring
      - [ ] needs peer review

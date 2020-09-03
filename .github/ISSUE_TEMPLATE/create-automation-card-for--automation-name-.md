@@ -23,8 +23,20 @@ Provide collateral for the OpenSourceAutomations.org website
      - [ ]  security.md URL
      - [ ]  support.md URL
     - [ ]  If you are looking for collaborators - What you are looking for skills wise
-  - [ ]  Status (in use, depreciated, needs update - and any other status you can think of)
-     - [ ] If status in use, what codebase can it be seen in?
+- [ ]  Status of Automation (check all that apply)
+     - [ ] in use and ready to deploy
+     - [ ] in use and being refactored
+     - [ ] in development
+     - [ ] ready for in development
+     - [ ] in ideation
+   - [ ] If status in use, what codebase can it be seen in?
+   - [ ] Help wanted
+     - [ ] needs maintenance
+     - [ ] need refactoring
+     - [ ] needs peer review
+     - [ ] needs to be built
+     - [ ] need to be researched
+     - [ ] needs advice
 - [ ]   Add automation Card to website
 
 ### Resources/Instructions

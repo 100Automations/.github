@@ -22,7 +22,6 @@ Provide collateral for the OpenSourceAutomations.org website
      - [ ]  contributing.md URL
      - [ ]  security.md URL
      - [ ]  support.md URL
-    - [ ]  If you are looking for collaborators - What you are looking for skills wise
 - [ ]  Status of Automation (check all that apply)
      - [ ] in use and ready to deploy
      - [ ] in use and being refactored
@@ -37,6 +36,7 @@ Provide collateral for the OpenSourceAutomations.org website
      - [ ] needs to be built
      - [ ] need to be researched
      - [ ] needs advice
+        - [ ] Advice Needed: (type in sort description of what you need)
 - [ ]   Add automation Card to website
 
 ### Resources/Instructions
